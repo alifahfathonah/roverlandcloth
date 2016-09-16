@@ -1,0 +1,17 @@
+#vertical-ticker{
+	height:200px;
+	overflow:hidden;
+	margin:0; padding:0;
+	
+}
+
+	#vertical-ticker li{
+		padding:2% 2%;
+		padding-right:10%;
+		display:block;
+		_background:#efefef;
+		
+		border-bottom:1px solid #ddd;
+		
+		
+	}
